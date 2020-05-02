@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+    <template id="assets_frontend" name="clickworks login tutorial popup" inherit_id="web.assets_frontend">
+        <xpath expr="." position="inside">
+            <script type="text/javascript" src="/modifier_clickworks_login_tutorial/static/src/js/modifier_clickworks_login_tutorial.js"></script>
+        </xpath>
+    </template>
+
+
+</odoo>
